@@ -1,0 +1,4 @@
+{"operationName":"TelegramBossKillRewards",
+"variables":{
+    
+},"query":"query TelegramBossKillRewards {\n  telegramBossKillRewards {\n    id\n    level\n    amount\n    __typename\n  }\n  telegramUserReferralConfig {\n    id\n    level\n    rewardAmount\n    __typename\n  }\n  telegramBossList {\n    health\n    level\n    name\n    __typename\n  }\n}"}

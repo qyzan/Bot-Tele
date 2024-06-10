@@ -1,0 +1,1 @@
+data_string = 'query_id=AAHyKYsdAwAAAPIpix0RnrQf&user={"id":6938110450,"first_name":"Khairul","last_name":".","username":"qyzann","language_code":"en","allows_write_to_pm":true}&auth_date=1717742647&hash=b836f5980047094187a07b98b9971bf5d94d0b6f337897e1ab8c4284d1c450a4'
